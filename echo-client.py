@@ -1,6 +1,6 @@
 import socket
 
-HOST = '127.0.0.1'
+HOST = '10.48.89.198'
 PORT = 65432
 string = input("Escribe el mensaje para Neri: ")
 mess = bytes(string, 'utf-8')
